@@ -1,14 +1,17 @@
 {
-  "name": "js-starter",
+  "name": "vanilla-html-css-gallery",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "serve": "browser-sync start --server --files '*.html, *.css, *.js'"
   },
-  "keywords": [],
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.12",
     "eslint": "^7.11.0",
