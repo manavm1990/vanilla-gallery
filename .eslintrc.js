@@ -12,5 +12,6 @@ module.exports = {
     "array-callback-return": "warn",
     "no-confusing-arrow": "off",
     "no-unused-vars": "warn",
+    "no-plusplus": "warn",
   },
 };
